@@ -1,4 +1,5 @@
 # HR-Analytics
+## Work in Progress
 This project uses R to build a Machine Learning Model.
 
 In this project, we try to predict which employees will be promoted based on several fields.
